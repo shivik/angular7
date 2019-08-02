@@ -1,3 +1,6 @@
+# Reference
+This Dummy was created as a replica of the tutorial `https://coursetro.com/posts/code/171/Angular-7-Tutorial---Learn-Angular-7-by-Example`
+
 # Ng7
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.1.2.
